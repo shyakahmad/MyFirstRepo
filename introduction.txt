@@ -1,0 +1,6 @@
+                                        Brief Introduction About Myself
+
+Hi, I’m Ahmad Shyaka an aspiring learner currently exploring the world of Linux and version control through the ALX pathway program. 
+I’m passionate about using technology to solve real-world problems, and I’m on a journey to build a strong foundation in systems, 
+tools, and workflows that power modern development. 
+This repository marks my first step into Git and GitHub, where I’ll be tracking my progress, learning milestones, and hands on exercises.
